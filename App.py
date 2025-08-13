@@ -52,7 +52,7 @@ from flatlib.aspects import getAspect
 # --------------------
 # Config
 # --------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN")  # <-- set this in your environment
+BOT_TOKEN = os.environ.get("8123872131:AAFFzyXB5EllpdXm5Gs1Y_L306Idh30ByQo")  # <-- set this in your environment
 NOMINATIM_EMAIL = os.environ.get("NOMINATIM_EMAIL", "your-email@example.com")
 
 DATE, TIME, PLACE, CONFIRM = range(4)
@@ -268,4 +268,5 @@ geopy>=2.4.1
 pytz>=2024.1
 timezonefinder>=6.5.2
 """
+
 
